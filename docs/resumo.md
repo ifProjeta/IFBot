@@ -1,7 +1,7 @@
 # **IFBOT - ASSISTÊNCIA AO ALUNO E PROFESSOR**
 
  ## **O que é?**
-  - É um chat bot, com o intuito de auxiliar a vida acadêmica, respondendo comandos enviados por mensagem(Ex:/cronograma).
+  - O projeto consiste no desenvolvimento de um chatbot escolar inteligente capaz de auxiliar alunos com informações acadêmicas e administrativas de forma rápida e automatizada. Ele permite consultar calendário, cronogramas, horários de atendimento dos professores, boletins, registrar reclamações ou sugestões e receber notificações importantes, como eventos, provas e trabalhos. O objetivo é centralizar informações e melhorar a comunicação entre alunos, professores e a escola.
 
  ## **Como funciona?**
   - **Como aderir?**
